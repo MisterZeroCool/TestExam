@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestExam</string>
+    <string name="car">Car</string>
+    <string name="add_element">Add element</string>
+</resources>
